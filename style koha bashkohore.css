@@ -1,0 +1,47 @@
+div.teksti1 {
+    font-family: Georgia, serif;
+    font-size: 20px;
+    text-align: start;
+    color: #fff;
+
+
+}
+
+html{
+    background-color: #2e2e2e;
+    display: flex;
+    flex-direction: row;
+   justify-content: space-around;
+   flex-flow: wrap;
+   background-image:  url(bashkohore.webp);
+   background-position: top;
+   background-size: cover;
+   background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.99)) , url(bashkohore.webp);
+   background-repeat: repeat-y;
+   padding: 100px;
+  background-size: 5000px;
+ 
+  
+  
+}
+
+
+
+div.titulli{
+    text-align: center;
+    font-family: Georgia, serif;
+    color: #fff;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #ffffff;
+    display: flex;
+    flex-direction: row;
+   justify-content: space-around;
+   flex-flow: wrap;
+
+  }

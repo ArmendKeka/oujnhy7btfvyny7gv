@@ -1,0 +1,49 @@
+title {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: black;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+
+
+header {
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    margin: 30px;
+}
+
+div.antika-text{
+    font-family: Georgia, serif;
+    font-size: 20px;
+    text-align: start;
+  
+    color: #fff;
+    padding: 50px;
+    
+    margin: 30px;
+
+    
+
+
+}
+
+html{
+    background-color: #2e2e2e;
+    display: flex;
+    flex-direction: row;
+   justify-content: space-around;
+   flex-flow: wrap;
+   background-image:  url(antika.jpg);
+   background-position: center;
+   background-size: cover;
+   background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.99)) , url(antika.jpg);
+   background-repeat: repeat-y;
+}
+
+h2{
+    font-family: serif;
+}
